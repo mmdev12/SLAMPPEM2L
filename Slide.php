@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-<script src="js/jquery.js"></script>
+<head>
+<script src="jquery-3.1.1.min.js"></script>
+</head>
 <script src="js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/bootstrap-theme.min.css">
