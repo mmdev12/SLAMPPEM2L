@@ -61,7 +61,7 @@
                         elseif($page!='membres'){?>
                                 <li><?}?>
 
-                    <a href="membres.php">Membres</a></li>
+                    <a href="#">Membres</a></li>
     		</ul>
             <ul class="nav navbar-nav navbar-right">
                       <?php if($page=='login'){?>
